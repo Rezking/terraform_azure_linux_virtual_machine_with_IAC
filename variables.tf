@@ -6,7 +6,7 @@ variable "resource_group" {
   }
 }
 variable "publickeyfile" {
-  default = "C:\\Users\\oreoluwa.onanuga\\.ssh\\id_rsa.pub"
+  default = "******************"
 }
 variable "location_for_others" {
   default = "West US 3"
